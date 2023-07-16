@@ -77,7 +77,7 @@
 			<version>${spring.version}</version>
 		</dependency>
   </dependencies>
-   <distributionManagement>
+  <!--   <distributionManagement>
         <repository>
           <id>nexus</id>
           <name>KC Tech Releases Nexus Repository</name>
@@ -88,7 +88,7 @@
           <name>KC Tech Snapshot Nexus Repository </name>
            <url>http://13.233.96.120:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
-   </distributionManagement>
+  </distributionManagement> -->
 	
  <!-- <profiles>
         <profile>
